@@ -1,6 +1,6 @@
 # custome_widgets
 
-A new Flutter project profile screen for their apps.
+A new Flutter project profile screen for IT Students' project apps.
 
 ## App Details
 This app was designed to teach TIU IT Department Mobile Applications Students how to build a profile screen for their apps. 
